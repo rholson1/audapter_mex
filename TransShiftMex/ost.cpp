@@ -9,6 +9,7 @@
 #include <string>
 #include <list>
 #include <vector>
+#include <stdexcept>
 
 #include "ost.h"
 #include "utils.h"
